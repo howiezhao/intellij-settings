@@ -1,0 +1,18 @@
+<application>
+  <component name="GraziConfig">
+    <option name="enabledLanguages">
+      <set>
+        <option value="English (US)" />
+        <option value="Chinese" />
+      </set>
+    </option>
+    <option name="userDisabledRules">
+      <set>
+        <option value="And" />
+        <option value="USELESS_THAT" />
+        <option value="WHITESPACE_RULE" />
+      </set>
+    </option>
+    <option name="lastSeenVersion" value="2019.3-6.2.stable" />
+  </component>
+</application>
