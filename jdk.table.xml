@@ -1,63 +1,87 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Remote Python 3.7.3 Docker Compose (django at [/home/howie/Desktop/tpub/local.yml])" />
-      <type value="Python SDK" />
-      <version value="Python 3.7.3" />
-      <homePath value="docker-compose://[/home/howie/Desktop/tpub/local.yml]:django/python" />
+      <name value="11" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;11.0.4&quot;" />
+      <homePath value="$APPLICATION_HOME_DIR$/jbr" />
       <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/86293415/201545292" type="simple" />
-            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/86293415/-2022924752" type="simple" />
-            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/86293415" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/java.base" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/java.compiler" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/java.datatransfer" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/java.desktop" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/java.instrument" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/java.logging" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/java.management" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/java.management.rmi" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/java.naming" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/java.net.http" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/java.prefs" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/java.rmi" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/java.scripting" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/java.se" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/java.security.jgss" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/java.security.sasl" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/java.smartcardio" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/java.sql" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/java.sql.rowset" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/java.transaction.xa" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/java.xml" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/java.xml.crypto" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/javafx.base" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/javafx.controls" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/javafx.fxml" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/javafx.graphics" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/javafx.media" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/javafx.swing" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/javafx.web" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.accessibility" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.aot" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.attach" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.charsets" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.compiler" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.crypto.ec" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.dynalink" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.httpserver" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.internal.ed" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.internal.le" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.jdi" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.jfr" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.jsobject" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.localedata" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.management" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.management.agent" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.management.jfr" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.naming.dns" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.naming.rmi" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.net" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.pack" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.sctp" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.security.auth" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.security.jgss" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.unsupported" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.xml.dom" type="simple" />
+            <root url="jrt:///snap/intellij-idea-ultimate/181/jbr!/jdk.zipfs" type="simple" />
           </root>
         </classPath>
-        <sourcePath>
+        <javadocPath>
           <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="django" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="">
-        <dockerComposeConfigurationPaths>
-          <item value="$USER_HOME$/Desktop/tpub/local.yml" />
-        </dockerComposeConfigurationPaths>
-        <envs />
-        <PathMappingSettings>
-          <option name="pathMappings">
-            <list>
-              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/86293415/201545292" remote-root="/usr/lib/python3.7" />
-              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/86293415/-2022924752" remote-root="/usr/lib/python3.7/site-packages" />
-            </list>
-          </option>
-        </PathMappingSettings>
-      </additional>
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.6" />
-      <type value="Python SDK" />
-      <version value="Python 3.6.9" />
-      <homePath value="/usr/bin/python3.6" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root url="file:///usr/lib/python3.6" type="simple" />
-            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/.local/lib/python3.6/site-packages" type="simple" />
-            <root url="file:///usr/local/lib/python3.6/dist-packages" type="simple" />
-            <root url="file:///usr/lib/python3/dist-packages" type="simple" />
-            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-1247971763" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
-          </root>
-        </classPath>
+        </javadocPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
@@ -65,31 +89,25 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Python 3.6 (tech_sniffer)" />
-      <type value="Python SDK" />
-      <version value="Python 3.6.9" />
-      <homePath value="$USER_HOME$/Desktop/sniffer/tech_sniffer/venv/bin/python" />
+      <name value="Haskell Tool Stack" />
+      <type value="Haskell Tool Stack SDK" />
+      <version value="2.1.3&#10;" />
+      <homePath value="$USER_HOME$/.local/bin/stack" />
       <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
         <classPath>
-          <root type="composite">
-            <root url="file:///usr/lib/python3.6" type="simple" />
-            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/Desktop/sniffer/tech_sniffer/venv/lib/python3.6/site-packages" type="simple" />
-            <root url="jar://$USER_HOME$/Desktop/sniffer/tech_sniffer/venv/lib/python3.6/site-packages/setuptools-40.8.0-py3.6.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/Desktop/sniffer/tech_sniffer/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/580284458" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
-          </root>
+          <root type="composite" />
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/sniffer/tech_sniffer" />
+      <additional />
     </jdk>
   </component>
 </application>
