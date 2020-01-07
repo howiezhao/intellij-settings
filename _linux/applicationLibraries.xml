@@ -1,8 +1,0 @@
-<application>
-  <component name="libraryTable">
-    <library name="@types/google-closure-compiler" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-  </component>
-</application>
