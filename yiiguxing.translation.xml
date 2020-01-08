@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Go to *Settings &gt; Build, Execution, Deployment &gt; Docker*. If you are on linux, you can use docker directly using its socket `unix:///var/run/docker.sock`, if you are on Windows or Mac, make sure that you have docker-machine installed, then you can simply *Import credentials from Docker Machine*." />
+      <item value="To connect to python remote interpreter inside docker, you have to make sure first, that Pycharm is aware of your docker." />
+      <item value="Docker Remote Debugging" />
       <item value="收件人电话" />
       <item value="收件人姓名" />
       <item value="Shipping Address" />
@@ -27,8 +30,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="24" />
       </map>
     </option>
   </component>
