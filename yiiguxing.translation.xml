@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="收件人电话" />
+      <item value="收件人姓名" />
+      <item value="Shipping Address" />
+      <item value="收件地址" />
+      <item value="发票税号" />
+      <item value="发票抬头" />
       <item value="In addition, the processing of callback results for WeChat Pay and Alipay is also included." />
       <item value="This includes selecting a member type page, selecting a payment method page, generating a WeChat Pay QR code page, and querying a payment result page." />
       <item value="It is mainly used to implement the membership payment system." />
@@ -21,8 +27,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="21" />
       </map>
     </option>
   </component>
