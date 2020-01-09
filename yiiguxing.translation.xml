@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Payment types" />
       <item value="不可更改" />
       <item value="In theory you can remove them from repository, but then, other people will lose a ability to initialize a project from provided configurations as you did. To get rid of this annoying state, you can run command" />
       <item value="Most of the files from `.idea/` were added to `.gitignore` with a few exceptions, which were made, to provide &quot;ready to go&quot; configuration. After adding remote interpreter some of these files are altered by PyCharm:" />
@@ -49,8 +50,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="45" />
       </map>
     </option>
   </component>
