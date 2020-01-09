@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="查询用户微信支付结果" />
+      <item value="success表示支付成功" />
+      <item value="success为支付成功" />
+      <item value="订单状态" />
+      <item value="inquire" />
+      <item value="查询" />
+      <item value="确认" />
+      <item value="查询结果" />
+      <item value="生成当前项目的PDF并自动下载" />
       <item value="Payment types" />
       <item value="不可更改" />
       <item value="In theory you can remove them from repository, but then, other people will lose a ability to initialize a project from provided configurations as you did. To get rid of this annoying state, you can run command" />
@@ -42,16 +51,11 @@
       <item value="statistics" />
       <item value="Render keyword statistics page (internal use)." />
       <item value="Render Mobile LoginIn/Sign Up page." />
-      <item value="Render Yintrust website homepage." />
-      <item value="Honestly, the logic here is not clear. Some functions that should not be put here are put here. Perhaps the overall architecture should be rethought." />
-      <item value="So far it is responsible for the following things:" />
-      <item value="dedicated" />
-      <item value="As the name suggests, this is an application dedicated to miscellaneous." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="54" />
       </map>
     </option>
   </component>
