@@ -1,57 +1,6 @@
 <application>
   <component name="AppStorage">
-    <histories>
-      <item value="查询用户微信支付结果" />
-      <item value="success表示支付成功" />
-      <item value="success为支付成功" />
-      <item value="订单状态" />
-      <item value="inquire" />
-      <item value="查询" />
-      <item value="确认" />
-      <item value="查询结果" />
-      <item value="生成当前项目的PDF并自动下载" />
-      <item value="Payment types" />
-      <item value="不可更改" />
-      <item value="In theory you can remove them from repository, but then, other people will lose a ability to initialize a project from provided configurations as you did. To get rid of this annoying state, you can run command" />
-      <item value="Most of the files from `.idea/` were added to `.gitignore` with a few exceptions, which were made, to provide &quot;ready to go&quot; configuration. After adding remote interpreter some of these files are altered by PyCharm:" />
-      <item value="Modified files in `.idea` directory" />
-      <item value="This might be fault of your firewall. Take a look on this ticket" />
-      <item value="Pycharm hangs on &quot;Connecting to Debugger&quot;" />
-      <item value="Known issues" />
-      <item value="and many others.." />
-      <item value="run and debug migrations or different django management commands" />
-      <item value="run and debug tests" />
-      <item value="run and debug python code" />
-      <item value="Things you can do with provided configuration" />
-      <item value="After few seconds, all *Run/Debug Configurations* should be ready to use." />
-      <item value="Having that, click *OK*. Close *Settings* panel, and wait few seconds..." />
-      <item value="Switch to *Docker Compose* and select `local.yml` file from directory of your project, next set *Service name* to `django`" />
-      <item value="Next, you have to add new remote python interpreter, based on already tested deployment settings. Go to *Settings &gt; Project &gt; Project Interpreter*. Click on the cog icon, and click *Add Remote*." />
-      <item value="But as you can see, at the beginning there is something wrong with them. They have red X on django icon, and they cannot be used, without configuring remote python interpteter. To do that, you have to go to *Settings &gt; Build, Execution, Deployment* first." />
-      <item value="This repository comes with already prepared &quot;Run/Debug Configurations&quot; for docker." />
-      <item value="Configure Remote Python Interpreter" />
-      <item value="Go to *Settings &gt; Build, Execution, Deployment &gt; Docker*. If you are on linux, you can use docker directly using its socket `unix:///var/run/docker.sock`, if you are on Windows or Mac, make sure that you have docker-machine installed, then you can simply *Import credentials from Docker Machine*." />
-      <item value="To connect to python remote interpreter inside docker, you have to make sure first, that Pycharm is aware of your docker." />
-      <item value="Docker Remote Debugging" />
-      <item value="收件人电话" />
-      <item value="收件人姓名" />
-      <item value="Shipping Address" />
-      <item value="收件地址" />
-      <item value="发票税号" />
-      <item value="发票抬头" />
-      <item value="In addition, the processing of callback results for WeChat Pay and Alipay is also included." />
-      <item value="This includes selecting a member type page, selecting a payment method page, generating a WeChat Pay QR code page, and querying a payment result page." />
-      <item value="It is mainly used to implement the membership payment system." />
-      <item value="This table is associated with the ``User`` table and records a payment record for a certain user." />
-      <item value="To accomplish these functions, we designed the ``MembershipOrder`` table." />
-      <item value="Each order has its status, and each unpaid order is valid for 60 minutes, so we created a task using Celery to delete an unpaid order that was longer than 60 minutes." />
-      <item value="Define some common utility functions." />
-      <item value="Define some common ``Form`` classes." />
-      <item value="Handle links that track user access history." />
-      <item value="statistics" />
-      <item value="Render keyword statistics page (internal use)." />
-      <item value="Render Mobile LoginIn/Sign Up page." />
-    </histories>
+    <option name="maxHistorySize" value="0" />
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="54" />
