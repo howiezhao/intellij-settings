@@ -3,8 +3,8 @@
     <option name="maxHistorySize" value="0" />
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="58" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
@@ -12,6 +12,7 @@
   <component name="Settings">
     <option name="googleTranslateSettings">
       <google-translate>
+        <option name="primaryLanguage" value="CHINESE" />
         <option name="useTranslateGoogleCom" value="false" />
       </google-translate>
     </option>
