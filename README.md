@@ -19,7 +19,7 @@ Settings Repository Directory: `$HOME/.<PRODUCT><VERSION>/config/settingsReposit
 - `filetypes.xml`: Point to `File | Settings | Editor | File Types`
 - `find.xml`: **Unclear**
 - `grazi_global.xml`: Point to Grazie by JetBrains plugin
-- `log_highlighting.xml`:
+- `log_highlighting.xml`: **Unclear**
 - `markdown.xml`: Point to `File | Settings | Languages & Frameworks | Markdown`
 - `proxy.settings.xml`: Point to `File | Settings | Appearance & Behavior | System Settings | HTTP Proxy`
 - `templates.xml`: Point to `File | Settings | Editor | Live Templates`, **suspected**
