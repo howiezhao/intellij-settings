@@ -26,6 +26,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="CheckinProject">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581585831744" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
@@ -53,16 +61,16 @@
         <entry key="EditorDown">
           <value>
             <ActionSummary>
-              <option name="last" value="1581556704913" />
-              <option name="times" value="18" />
+              <option name="last" value="1581585883002" />
+              <option name="times" value="19" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1581556649758" />
-              <option name="times" value="8" />
+              <option name="last" value="1581585874901" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +93,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1581556703285" />
-              <option name="times" value="114" />
+              <option name="last" value="1581585882087" />
+              <option name="times" value="120" />
             </ActionSummary>
           </value>
         </entry>
@@ -101,8 +109,16 @@
         <entry key="EditorUp">
           <value>
             <ActionSummary>
-              <option name="last" value="1581556661290" />
-              <option name="times" value="5" />
+              <option name="last" value="1581585880078" />
+              <option name="times" value="6" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="FindInPath">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581586036774" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -117,8 +133,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581555362224" />
-              <option name="times" value="1" />
+              <option name="last" value="1581585821562" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -149,8 +165,8 @@
         <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1581555035486" />
-              <option name="times" value="2" />
+              <option name="last" value="1581585775362" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
