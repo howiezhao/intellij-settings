@@ -106,9 +106,26 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Vcs.UpdateProject">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581555362224" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.grazie.ide.notification.Notification$showLanguagesMessage$1">
           <value>
             <ActionSummary>
+              <option name="last" value="1581555093617" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.ReopenProjectAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581555093620" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
