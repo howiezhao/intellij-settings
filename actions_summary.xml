@@ -5,8 +5,8 @@
         <entry key="$Copy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581669236002" />
-              <option name="times" value="2" />
+              <option name="last" value="1582098029948" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -21,8 +21,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581383780170" />
-              <option name="times" value="1" />
+              <option name="last" value="1582098025653" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -61,8 +61,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581669527708" />
-              <option name="times" value="1580" />
+              <option name="last" value="1582097624328" />
+              <option name="times" value="1587" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +85,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581669515790" />
-              <option name="times" value="24" />
+              <option name="last" value="1582097047760" />
+              <option name="times" value="26" />
             </ActionSummary>
           </value>
         </entry>
@@ -125,8 +125,8 @@
         <entry key="EditorLeftWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1581669514513" />
-              <option name="times" value="447" />
+              <option name="last" value="1582097046256" />
+              <option name="times" value="517" />
             </ActionSummary>
           </value>
         </entry>
@@ -194,6 +194,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Find">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582097618431" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="FindInPath">
           <value>
             <ActionSummary>
@@ -247,6 +255,14 @@
             <ActionSummary>
               <option name="last" value="1581591104207" />
               <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582097038345" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
