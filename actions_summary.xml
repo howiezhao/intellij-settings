@@ -10,6 +10,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="$Delete">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582181229830" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="$Paste">
           <value>
             <ActionSummary>
@@ -18,19 +26,27 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="$Redo">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582181210540" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582180848757" />
-              <option name="times" value="16" />
+              <option name="last" value="1582181048841" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582169656664" />
-              <option name="times" value="25" />
+              <option name="last" value="1582181214203" />
+              <option name="times" value="40" />
             </ActionSummary>
           </value>
         </entry>
@@ -69,8 +85,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582180975880" />
-              <option name="times" value="3286" />
+              <option name="last" value="1582181042621" />
+              <option name="times" value="3287" />
             </ActionSummary>
           </value>
         </entry>
@@ -93,8 +109,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582180850019" />
-              <option name="times" value="66" />
+              <option name="last" value="1582181050314" />
+              <option name="times" value="67" />
             </ActionSummary>
           </value>
         </entry>
@@ -141,8 +157,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582180855643" />
-              <option name="times" value="111" />
+              <option name="last" value="1582181054776" />
+              <option name="times" value="112" />
             </ActionSummary>
           </value>
         </entry>
@@ -237,8 +253,8 @@
         <entry key="NewHtmlFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582180822270" />
-              <option name="times" value="4" />
+              <option name="last" value="1582181023214" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -306,6 +322,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Vcs.ShowTabbedFileHistory">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582181172282" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
@@ -367,6 +391,14 @@
             <ActionSummary>
               <option name="last" value="1581651041471" />
               <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582181181762" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
