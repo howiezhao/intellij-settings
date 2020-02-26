@@ -32,6 +32,7 @@ Settings Repository Directory: `$HOME/.<PRODUCT><VERSION>/config/settingsReposit
 
 - `yiiguxing.translation.xml`: Point to Translation by Yii.Guxing plugin. Only record translation history.
 - `remote_servers.xml`: Point to `File | Settings | Build, Execution, Deployment | Docker`. Windows and Linux are not the same.
+- `terminal.xml`: Point to `File | Settings | Tools | Terminal`. Windows and Linux are not the same.
 
 ## Installed plugins
 
