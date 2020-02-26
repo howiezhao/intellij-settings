@@ -1,4 +1,4 @@
-# intellij-settings
+# IntelliJ Settings Repository
 My personal IntelliJ Platform IDE settings
 
 Including PyCharm, IntelliJ IDEA, etc.
@@ -12,6 +12,7 @@ Settings Repository Directory: `$HOME/.<PRODUCT><VERSION>/config/settingsReposit
 - `codestyles/Default.xml`: Point to `File | Settings | Editor | Code Style`
 - `inspection/Default.xml`: Point to `File | Settings | Editor | Inspections`
 - `templates/howie.xml`: Point to `File | Settings | Editor | Live Templates`
+- `actions_summary.xml`: **Unclear**
 - `colors.scheme.xml`: Point to `File | Settings | Editor | Color Scheme`
 - `debugger.xml`: Point to `File | Settings | Build, Execution, Deployment | Debugger`
 - `docker.xml`: Point to `File | Settings | Build, Execution, Deployment | Docker`
@@ -22,6 +23,7 @@ Settings Repository Directory: `$HOME/.<PRODUCT><VERSION>/config/settingsReposit
 - `log_highlighting.xml`: **Unclear**
 - `markdown.xml`: Point to `File | Settings | Languages & Frameworks | Markdown`
 - `proxy.settings.xml`: Point to `File | Settings | Appearance & Behavior | System Settings | HTTP Proxy`
+- `remote_servers.xml`: Point to `File | Settings |`
 - `templates.xml`: Point to `File | Settings | Editor | Live Templates`, **suspected**
 - `ui-datetime.xml`: Point to `File | Settings | Appearance & Behavior | System Settings | Date Formats`
 - `vcs.xml`: **Unclear**
