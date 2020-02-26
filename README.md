@@ -15,7 +15,7 @@ Settings Repository Directory: `$HOME/.<PRODUCT><VERSION>/config/settingsReposit
 - `actions_summary.xml`: **Unclear**
 - `colors.scheme.xml`: Point to `File | Settings | Editor | Color Scheme`
 - `debugger.xml`: Point to `File | Settings | Build, Execution, Deployment | Debugger`
-- `docker.xml`: Point to `File | Settings | Build, Execution, Deployment | Docker`
+- `docker.xml`: Point to `File | Settings | Build, Execution, Deployment | Docker | Tools`
 - `editor.xml`: Point to `File | Settings | Editor | Font`
 - `filetypes.xml`: Point to `File | Settings | Editor | File Types`
 - `find.xml`: **Unclear**
@@ -23,7 +23,6 @@ Settings Repository Directory: `$HOME/.<PRODUCT><VERSION>/config/settingsReposit
 - `log_highlighting.xml`: **Unclear**
 - `markdown.xml`: Point to `File | Settings | Languages & Frameworks | Markdown`
 - `proxy.settings.xml`: Point to `File | Settings | Appearance & Behavior | System Settings | HTTP Proxy`
-- `remote_servers.xml`: Point to `File | Settings |`
 - `templates.xml`: Point to `File | Settings | Editor | Live Templates`, **suspected**
 - `ui-datetime.xml`: Point to `File | Settings | Appearance & Behavior | System Settings | Date Formats`
 - `vcs.xml`: **Unclear**
@@ -32,6 +31,8 @@ Settings Repository Directory: `$HOME/.<PRODUCT><VERSION>/config/settingsReposit
 ## Ignore
 
 - `yiiguxing.translation.xml`: Point to Translation by Yii.Guxing plugin. Only record translation history.
+- `remote_servers.xml`: Point to `File | Settings | Build, Execution, Deployment | Docker`. Windows and Linux are not the same.
+- `terminal.xml`: Point to `File | Settings | Tools | Terminal`. Windows and Linux are not the same.
 
 ## Installed plugins
 
