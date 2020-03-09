@@ -33,6 +33,7 @@ Settings Repository Directory: `$HOME/.<PRODUCT><VERSION>/config/settingsReposit
 - `yiiguxing.translation.xml`: Point to Translation by Yii.Guxing plugin. Only record translation history.
 - `remote_servers.xml`: Point to `File | Settings | Build, Execution, Deployment | Docker`. Windows and Linux are not the same.
 - `terminal.xml`: Point to `File | Settings | Tools | Terminal`. Windows and Linux are not the same.
+- `github.xml`: Point to `File | Settings | Version Control | GitHub`. Contains GitHub account information.
 
 ## Installed plugins
 
@@ -41,11 +42,12 @@ Settings Repository Directory: `$HOME/.<PRODUCT><VERSION>/config/settingsReposit
 - [CSV Plugin](https://plugins.jetbrains.com/plugin/10037-csv-plugin/) by Martin Sommer
 - [dotplugin](https://plugins.jetbrains.com/plugin/10312-dotplugin/) by bzixilu
 - [GoogleIt](https://plugins.jetbrains.com/plugin/7402-googleit/) by ROOT
-- [Makefile support](https://plugins.jetbrains.com/plugin/9333-makefile-support/) by Victor Kropp
-- [Requirements](https://plugins.jetbrains.com/plugin/10837-requirements/) by meanmail
-- [Translation](https://plugins.jetbrains.com/plugin/8579-translation/) by Yii.Guxing
 - [Grazie](https://plugins.jetbrains.com/plugin/12175-grazie/) by JetBrains
 - [Ideolog](https://plugins.jetbrains.com/plugin/9746-ideolog/) by JetBrains
+- [Makefile support](https://plugins.jetbrains.com/plugin/9333-makefile-support/) by Victor Kropp
+- [PowerShell](https://plugins.jetbrains.com/plugin/10249-powershell) by Andrey
+- [Requirements](https://plugins.jetbrains.com/plugin/10837-requirements/) by meanmail
+- [Translation](https://plugins.jetbrains.com/plugin/8579-translation/) by Yii.Guxing
 
 The following plugins are only used for IntelliJ IDEA:
 
