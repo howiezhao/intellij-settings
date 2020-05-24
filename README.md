@@ -47,6 +47,7 @@ Settings Repository Directory: `$HOME/.<PRODUCT><VERSION>/config/settingsReposit
 - [Makefile support](https://plugins.jetbrains.com/plugin/9333-makefile-support/) by Victor Kropp
 - [PowerShell](https://plugins.jetbrains.com/plugin/10249-powershell) by Andrey
 - [Requirements](https://plugins.jetbrains.com/plugin/10837-requirements/) by meanmail
+- [Toml](https://plugins.jetbrains.com/plugin/8195-toml) by JetBrains
 - [Translation](https://plugins.jetbrains.com/plugin/8579-translation/) by Yii.Guxing
 
 The following plugins are only used for IntelliJ IDEA:
@@ -55,6 +56,10 @@ The following plugins are only used for IntelliJ IDEA:
 - [Go](https://plugins.jetbrains.com/plugin/9568-go/) by JetBrains
 - [Go Template](https://plugins.jetbrains.com/plugin/10581-go-template/) by JetBrains
 - [Python](https://plugins.jetbrains.com/plugin/631-python/) by JetBrains
+
+The following plugins are only used for CLion:
+
+- [Rust](https://plugins.jetbrains.com/plugin/8182-rust) by JetBrains
 
 ## More
 
