@@ -1,9 +1,13 @@
 # IntelliJ Settings Repository
+
 My personal IntelliJ Platform IDE settings
 
 Including PyCharm, IntelliJ IDEA, etc.
 
-Settings Repository Directory: `$HOME/.<PRODUCT><VERSION>/config/settingsRepository/repository`
+Settings Repository Directory:
+
+- Linux: `$HOME/.config/JetBrains/<product><version>/settingsRepository/repository`
+- Windows: `%APPDATA%\JetBrains\<product><version>\settingsRepository\repository`
 
 ## Setting items
 
