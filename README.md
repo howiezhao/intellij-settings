@@ -9,6 +9,10 @@ Settings Repository Directory:
 - Linux: `$HOME/.config/JetBrains/<product><version>/settingsRepository/repository`
 - Windows: `%APPDATA%\JetBrains\<product><version>\settingsRepository\repository`
 
+## How to use
+
+Go to `File | Manage IDE Settings | Settings Repository...`, and set `Upstream URL` with `git@github.com:howiezhao/intellij-settings.git`.
+
 ## Setting items
 
 - `_linux/laf.xml`: Point to `File | Settings | Appearance & Behavior | Appearance`, **suspected**
