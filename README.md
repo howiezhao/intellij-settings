@@ -55,6 +55,7 @@ Go to `File | Manage IDE Settings | Settings Repository...`, and set `Upstream U
 - [Makefile support](https://plugins.jetbrains.com/plugin/9333-makefile-support/) by Victor Kropp
 - [PowerShell](https://plugins.jetbrains.com/plugin/10249-powershell) by Andrey
 - [Requirements](https://plugins.jetbrains.com/plugin/10837-requirements/) by meanmail
+- [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint) by SonarSource
 - [Toml](https://plugins.jetbrains.com/plugin/8195-toml) by JetBrains
 - [Translation](https://plugins.jetbrains.com/plugin/8579-translation/) by Yii.Guxing
 
